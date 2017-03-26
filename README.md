@@ -1,5 +1,7 @@
 # NodeJS Project Scaffold
 
+[![Build Status](https://travis-ci.org/bbmoz/nodejs-project-scaffold.svg?branch=master)](https://travis-ci.org/bbmoz/nodejs-project-scaffold)
+
 > This is a scaffold for building nodejs projects.
 
 ## Tasks

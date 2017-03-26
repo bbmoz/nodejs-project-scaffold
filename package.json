@@ -5,8 +5,8 @@
   "description": "",
   "scripts": {
     "pretest": "eslint src/ test/",
-    "test": "testem -l Node ci",
-    "tdd": "testem -l Node",
+    "test": "testem ci",
+    "tdd": "testem -l node",
     "start": "node src/"
   },
   "author": "",
