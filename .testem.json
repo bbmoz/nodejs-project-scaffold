@@ -1,0 +1,10 @@
+{
+  "src_files": [
+    "{src,test}/**/*.js"
+  ],
+  "launchers": {
+    "Node": {
+      "command": "jasmine test/**/*.js"
+    }
+  }
+}

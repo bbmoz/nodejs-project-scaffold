@@ -1,0 +1,21 @@
+{
+  "name": "example-project",
+  "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "scripts": {
+    "pretest": "eslint src/ test/",
+    "test": "testem -l Node ci",
+    "tdd": "testem -l Node",
+    "start": "node src/"
+  },
+  "author": "",
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-standard": "^7.1.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^2.1.1",
+    "jasmine": "^2.5.3",
+    "testem": "^1.15.0"
+  }
+}
